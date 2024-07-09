@@ -27,3 +27,8 @@
   It is a success if the CAPS LED lights up.
   Disconnect the USB from the PC and connect a USB keyboard.
 
+-----
+ MailTo: Sasaji (sasaji@s-sasaji.ddo.jp)
+ * My Webpage: http://s-sasaji.ddo.jp/bml3mk5/
+ * GitHub:     https://github.com/bml3mk5/USBKeyboard4S1_PiPico
+ * X(Twitter): https://x.com/bml3mk5
